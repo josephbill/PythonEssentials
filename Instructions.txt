@@ -1,0 +1,11 @@
+1. Create a folder call it PythonStarter
+2. Inside the file create a main.py file.
+
+C : CREATE
+R : READ
+U : UPDATE
+D : DELETE
+
+WHAT IS PYTHON
+
+1. SERVER SIDE SCRIPTING LANGUAGE
