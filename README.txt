@@ -33,3 +33,39 @@ storage container
 
 
 
+
+Using Python , Create a club program ,
+that will take the age and gender of a customer and based off the ages it should return the following statements
+1. If the age is between 0 to 17 : Print out the statement "Too young"
+2. If the age is between 18 to ... and the gender is male : print our the statement  "Can go in! But does not receive a free drink"
+3. If the age is between 18 to ... and the gender is female : print out the statement "Can go in! receives a free drink, its ladies night"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

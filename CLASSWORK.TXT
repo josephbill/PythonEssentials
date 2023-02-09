@@ -1,0 +1,12 @@
+CLASS EXERCISE.
+
+GIVEN TWO VARIABLES
+
+a  =  7;
+b  = 10;
+
+a. switch the values of the variable using an arithmetic operator (+,-, / ,*)
+   result b = 7 and a = 10
+
+b. switch the value of the variables using a third variable
+   result b = 7 and a = 10
