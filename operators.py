@@ -8,9 +8,9 @@
 # others , membership operators / bitwise / identity operators
 
 # COMPARISON OPERATORS
-# ==	Equal	4 == 5 false. 4 == 4 true
+# ==	Equal	4 == 5 false. 4 == 4 true  a == b
 # !=	Not Equal	4 != 5 is true.
-# > 	Greater Than	4 > 5 false. 5 > 4 true
+# > 	Greater Than	4 > 5 false. 5 > 4 true   a > b  , b > a
 # <	    Less Than	4 < 5 is true. 5 < 4 false
 # >=	Greater than or Equal to	4 >= 5 false. 4 <= 5  true
 # <=	Less than or Equal to	4 <= 5 is true. 4 <= 4 true

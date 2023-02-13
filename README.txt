@@ -17,12 +17,12 @@ print("Hello Joseph")
 
 DATA TYPES
 # DATA TYPES : defines what sort of data we are working with
-1. Numeric : int (whole number) float (decimal number) complex (large integer)
-2. String : str -> anything in python inside a single,double or triple quotation.
+1. Numeric : int (whole number) float (decimal number) complex (large integer) : done
+2. String : str -> anything in python inside a single,double or triple quotation. : done
 3. Sequence : list (connected), tuple (multiple items but not connected) , range (1...10)
 4. Binary : bytes, bytearray , memoryview
 5. Mapping: dict (stores data in key and value pairs)  e.g.   name : "joseph"
-6. Boolean : bool ( true. false)
+6. Boolean : bool ( true. false) : done
 7. Set : set, frozenset
 8. None : NoneType : empty : null : undefined
 
