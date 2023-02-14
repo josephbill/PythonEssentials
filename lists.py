@@ -1,6 +1,7 @@
 # Lists : lists are used to store multiple items in a single variable.
 # 4 ways to store multiple items / collections of data : lists, tuple,set,dictionaries (iterables)
 shoppingBasket = ["Kales", "flour", "sugar", "Kales", "flour", "sugar"]
+# lists() # converting tuples to lists.
 # features on lists
 # 1. List items are ordered , changeable and allow duplicate values
 # 2. List items are indexed : start counting from 0
