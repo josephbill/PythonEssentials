@@ -17,8 +17,24 @@ print(next(myIterable))
 
 # create an iterator that returns numbers , stating with 1 , and each sequence will increase by 1 -> 1,2,3,4,5
 # classes and objects
-
-
+class MyNumbers:
+    # making the class mynumbers an iterable using the iter method
+    def __iter__(self):
+        self.a = 1
+        return self
+    # next method to provide trasversal ability for my class
+    def __next__(self):
+        x = self.a
+        self.a += 1
+        return x
+# object
+myclass = MyNumbers()
+myiter = iter(myclass)
+print(next(myiter))
+print(next(myiter))
+print(next(myiter))
+print(next(myiter))
+print(next(myiter))
 
 
 
