@@ -1,4 +1,4 @@
-# Set allow us to store multiple items in a single variables
+# Sets allow us to store multiple items in a single variables
 # sets are unordered , unchangeable , unindexed
 # to define a set use curly braces
 # sets do not have duplicated
